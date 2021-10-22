@@ -152,6 +152,7 @@ style say_label:
     properties gui.text_properties("name", accent=True)
     xalign gui.name_xalign
     yalign 0.5
+    ypos -30
 
 style say_dialogue:
     properties gui.text_properties("dialogue")
@@ -159,7 +160,6 @@ style say_dialogue:
     xpos gui.dialogue_xpos
     xsize gui.dialogue_width
     ypos gui.dialogue_ypos
-
 
 ## Input screen ################################################################
 ##

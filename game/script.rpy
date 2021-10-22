@@ -5,7 +5,7 @@
 
 define an = Character("Andromeda", color="#4C0514")
 
-define aris = Character("Arist", color="012A36")
+define aris = Character("Aristeas", color="012A36")
 
 # The game starts here.
 
